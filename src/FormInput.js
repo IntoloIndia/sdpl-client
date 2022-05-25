@@ -8,7 +8,7 @@ const FormInput = () => {
         style={{
           backgroundColor: 'red',
         }}>
-        Hello
+        Hello first commit
       </Text>
     </View>
   );
